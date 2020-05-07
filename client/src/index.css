@@ -67,6 +67,7 @@ body {
 }
 
 .home-button {
+  text-decoration: none !important;
   padding: 5px 10px;
   background-color: lightskyblue;
 }
